@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the [Asian Institute of Digital Finance (AIDF)](https://www.aidf.nus.edu.sg/) at the National University of Singapore, specializing in **Empirical Asset Pricing** and **Machine Learning**.
+I am a PhD Candidate at the [Asian Institute of Digital Finance (AIDF)](https://www.aidf.nus.edu.sg/) at the National University of Singapore. My research lies at the intersection of **Empirical Asset Pricing**, **Institutional Investor Behavior**, and **Machine Learning**.
 
-My research integrates **Demand System Asset Pricing (DSAP)** and **high-dimensional statistical methods** to revisit foundational empirical topics in finance.
+Specifically, I apply advanced empirical methods to untangle the complexities of active mutual fund performance, exploring structural constraints, limits to cognition, and signal gaming in portfolio management.
